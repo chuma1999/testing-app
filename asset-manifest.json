@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/testing-app/static/js/main.a673dfdb.js",
+    "index.html": "/testing-app/index.html",
+    "main.a673dfdb.js.map": "/testing-app/static/js/main.a673dfdb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a673dfdb.js"
+  ]
+}
